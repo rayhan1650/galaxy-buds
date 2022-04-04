@@ -24,7 +24,7 @@ const Dashboard = () => {
   return (
     <div className="d-flex flex-column flex-md-row justify-content-around">
       <div>
-        <h3 className="text-primary">Month Wise Sell</h3>
+        <h3 className="text-primary text-center">Month Wise Sell</h3>
         <LineChart width={600} height={500} data={businessData}>
           <CartesianGrid stroke="#ccc" strokeDasharray="5 5" />
           <XAxis dataKey="month" />
@@ -35,7 +35,7 @@ const Dashboard = () => {
         </LineChart>
       </div>
       <div>
-        <h3 className="text-primary">Investment vs Revenue</h3>
+        <h3 className="text-primary text-center">Investment vs Revenue</h3>
         <BarChart width={600} height={500} data={businessData}>
           <CartesianGrid strokeDasharray="3 3" />
           <XAxis dataKey="month" />
