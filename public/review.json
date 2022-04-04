@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "rating": 4,
+    "img": "https://i.ibb.co/8X4PjBm/vince-fleming.jpg",
+    "name": "Vince Fleming",
+    "text": "Nisi officia voluptate cupidatat sunt amet irure ut ullamco consectetur laborum excepteur."
+  },
+  {
+    "id": 2,
+    "rating": 5,
+    "img": "https://i.ibb.co/D4sTL6x/janko-ferlic.jpg",
+    "name": "Janko Ferlic",
+    "text": "Duis amet cupidatat dolor veniam velit id quis culpa nisi ullamco aliquip."
+  },
+  {
+    "id": 3,
+    "rating": 5,
+    "img": "https://i.ibb.co/5Gd5Yt4/itay-verchk.jpg",
+    "name": "Itay Verchk",
+    "text": "Ipsum aute ipsum mollit velit cupidatat sint labore proident."
+  },
+  {
+    "id": 4,
+    "rating": 4,
+    "img": "https://i.ibb.co/vk6vMRX/jeffrey-keenan.jpg",
+    "name": "Jeffrey Keenan",
+    "text": "Anim consectetur ullamco aliquip ut anim ex minim fugiat do duis voluptate proident sit fugiat."
+  },
+  {
+    "id": 5,
+    "rating": 4,
+    "img": "https://i.ibb.co/jvQZddH/alex-suprun.jpg",
+    "name": "Alex Suprun",
+    "text": "Cupidatat quis occaecat reprehenderit exercitation eu quis magna eiusmod."
+  },
+  {
+    "id": 6,
+    "rating": 4,
+    "img": "https://i.ibb.co/pn44VKV/julian-wan.jpg",
+    "name": "Julian Wan",
+    "text": "Elit amet exercitation voluptate aute esse tempor aliqua."
+  }
+]
