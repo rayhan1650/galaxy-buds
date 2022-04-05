@@ -22,7 +22,7 @@ const Dashboard = () => {
   }, []);
 
   return (
-    <div className="d-flex flex-column flex-md-row justify-content-around my-4">
+    <div className="d-flex flex-column flex-lg-row justify-content-around my-4">
       <div>
         <h3 className="text-primary text-center">Month Wise Sell</h3>
         <LineChart width={600} height={500} data={businessData}>
