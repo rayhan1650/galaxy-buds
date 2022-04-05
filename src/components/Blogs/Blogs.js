@@ -27,7 +27,7 @@ const Blogs = () => {
         </p>
       </article>
 
-      <h2 className="mt-5">Q1: What is semantic tag?</h2>
+      <h2 className="mt-5">Q2: What is semantic tag?</h2>
       <h5>Answer:</h5>
       <article>
         <p>
