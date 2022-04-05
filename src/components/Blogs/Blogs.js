@@ -2,7 +2,7 @@ import React from "react";
 
 const Blogs = () => {
   return (
-    <div className="container">
+    <div className="container my-4">
       <h2>Q1: What is context API?</h2>
       <h5>Answer:</h5>
       <article>
