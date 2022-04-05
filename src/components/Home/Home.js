@@ -1,9 +1,12 @@
 import React from "react";
+import HomeReview from "../HomeReview/HomeReview";
+import HomeTop from "../HomeTop/HomeTop";
 
 const Home = () => {
   return (
-    <div>
-      <h2>This is home</h2>
+    <div className="container mt-4">
+      <HomeTop />
+      <HomeReview />
     </div>
   );
 };

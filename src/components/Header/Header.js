@@ -4,7 +4,7 @@ import "./Header.css";
 
 const Header = () => {
   return (
-    <div className="my-link text-center bg-white py-3 sticky-top">
+    <div className="my-link text-center py-3 sticky-top">
       <CustomLink to="/">Home</CustomLink>
       <CustomLink to="/reviews">Reviews</CustomLink>
       <CustomLink to="/dashboard">Dashboard</CustomLink>
